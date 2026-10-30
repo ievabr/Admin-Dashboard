@@ -1,2 +1,2 @@
 # Admin-Dashboard
-Build a full dashboard design using Grid.
+Create a full dashboard design using Grid.
